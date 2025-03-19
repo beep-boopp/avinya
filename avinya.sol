@@ -13,7 +13,7 @@ contract SocialMedia {
         uint256 upvotes;
         uint256 downvotes;
         bool isFinalized;
-    }
+    }//comment
 
     struct User {
         uint256 credibilityScore;
